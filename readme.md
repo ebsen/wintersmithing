@@ -1,0 +1,1 @@
+Hacking on [Wintersmith](http://wintersmith.io), a static website generator written in [CoffeeScript](http://coffeescript.org), running on [Node.js](http://nodejs.org).
